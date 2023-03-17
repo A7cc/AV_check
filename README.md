@@ -9,11 +9,11 @@
 # 叁 使用
 
 - 查看帮助
-![bd9fe73fc28343c53eccd19debeaa113.png](bd9fe73fc28343c53eccd19debeaa113.png)
+![bd9fe73fc28343c53eccd19debeaa113.png](/image/bd9fe73fc28343c53eccd19debeaa113.png)
 
 - 默认检测
-![5adea421783d448110bcc326803bbfea.png](5adea421783d448110bcc326803bbfea-16790224420616.png)
+![5adea421783d448110bcc326803bbfea.png](/image/5adea421783d448110bcc326803bbfea.png)
 
 - 自定义检测
 ![bd9fe73fc28343c53eccd19debeaa113.png](/image/bd9fe73fc28343c53eccd19debeaa113.png)
-![2841e99ae96bac1ebc388b6f1965768c.png](2841e99ae96bac1ebc388b6f1965768c.png)
+![2841e99ae96bac1ebc388b6f1965768c.png](/image/2841e99ae96bac1ebc388b6f1965768c.png)
