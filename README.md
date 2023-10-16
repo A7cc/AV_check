@@ -9,11 +9,31 @@
 # 叁 使用
 
 - 查看帮助
-  ![fcf21c039349877cf7c078d5b4bd0386.png](/image/fcf21c039349877cf7c078d5b4bd0386.png)
 
-- 默认检测
-  ![5adea421783d448110bcc326803bbfea.png](/image/5adea421783d448110bcc326803bbfea.png)
+![image-20231016125238793](/image/image-20231016125238793.png)
 
-- 自定义检测
-  ![2841e99ae96bac1ebc388b6f1965768c.png](/image/2841e99ae96bac1ebc388b6f1965768c.png)
-  ![bd9fe73fc28343c53eccd19debeaa113.png](/image/bd9fe73fc28343c53eccd19debeaa113.png)
+- 本机检测
+
+![image-20231016125513575](/image/image-20231016125513575.png)
+
+- 自定义杀软检测
+
+![2841e99ae96bac1ebc388b6f1965768c.png](/image/2841e99ae96bac1ebc388b6f1965768c.png)
+
+- 指定进程文件检测
+
+![image-20231016125726546](/image/image-20231016125726546.png)
+
+- 混合检测
+
+![image-20231016125936347](/image/image-20231016125936347.png)
+
+# 肆 更新
+
+- 1.0.1
+  - 刚发布版本
+
+- 1.1.0：
+  - 修复了bug
+  - 增加了指定进程文件检测
+  - 设置默认检测开关
